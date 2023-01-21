@@ -6,8 +6,8 @@
 Welcome to django_cityloc_pkg's documentation!
 ==============================================
 
-.. automodule:: django_cityloc_pkg
-   :members: django_cityloc_pkg_chargrad
+.. automodule:: django_cityloc_pkg_chargrad
+   :members: 
    
 
 
